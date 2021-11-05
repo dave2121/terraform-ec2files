@@ -1,3 +1,3 @@
 resource "aws_key_pair" "job1-key" {
   key_name   = "jenkins-key"
-  public_key = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDEyd3I0wSqC1agp3lchnhLR0ZCeN5/dShtWjjh9Q0l7mleRuk2OKIq6OIV5Dy/AQspVrE7DsrjMMF/sax/HV95Pym2JuEk/+JddqAc5J7LIai+wGD+qmxMVXrlSn81McGKn/M3nQiHZxnbMkNYHafkBW2vzwskP87W4EIXmkbI8V AY4mKYqYzTl3Awot9Rl1l40TU6/iC2mMiWiUo/QEzU79COStTSoZbV1eo4ohp8LjPf5WNc/7fisTGpQkOLdJi3U/tVao4ygyF5XjXk7LUAz1mQHil4nLuRCvoN0ao7E2Tvryxa5yZ3NMuinNVGwGaCVG178XyyCpu1HsGcTzBP admin@ip-172-31-15-22"
+  public_key = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC6IEdY0WaQl+jEE5Hb9FN0VfGpAZIPvqXMcJ71dfF+OJt9oinAoKPGXvIdgXRguZqRoUzyYlY9kWWd88oo1gnoUei/3pXB1tDpgRHOer3rbUCCmEgbJPYz43hjCu2kgmZJkpB7sWhHTQCC969RK8OIrLv+5NXv24v5O+OSwqSXxJvD7cMxHQDat3c966lfSV4kxdfnhle0moO130/3UfORDfycmxSge61EqzLdnBL42Be7GW3DltdJ29xZtCW5ErZy+OSsaoUTZMBZboXTDordHJdZQ/cv7D+21Lm991zi5/eCgR1zfXY9tTqbUtgSpL1j6wB1S/giaiqeWaRcpVVL admin@ip-172-31-15-72"
